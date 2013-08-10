@@ -1,0 +1,12 @@
+{
+ "name": "mochibot.hx",
+ "url" : "https://github.com/as3boyan/Mochibot.hx",
+ "license": "MIT",
+ "tags": ["game","api","mochi", "stats"],
+ "description": "Mochibot ported to Haxe",
+ "version": "1.0.0",
+ "releasenote": "release",
+ "contributors": ["as3boyan"],
+ "dependencies": { 
+ }
+}
