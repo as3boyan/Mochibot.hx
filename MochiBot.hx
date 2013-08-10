@@ -51,6 +51,7 @@ import flash.net.URLVariables;
 
 
 	public function new() {
+		super();
 	}
 }
 
